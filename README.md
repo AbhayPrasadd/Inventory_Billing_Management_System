@@ -1,0 +1,1 @@
+A simple and efficient Inventory Billing Management System to manage products, generate invoices, track sales and handle customer data ideal for small to medium businesses
